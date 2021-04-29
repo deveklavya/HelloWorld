@@ -1,0 +1,16 @@
+/media/abstract/Data/sample/HelloWorld/bin/Debug/net5.0/HelloWorld
+/media/abstract/Data/sample/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/media/abstract/Data/sample/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/media/abstract/Data/sample/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/media/abstract/Data/sample/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/media/abstract/Data/sample/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/media/abstract/Data/sample/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/media/abstract/Data/sample/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
